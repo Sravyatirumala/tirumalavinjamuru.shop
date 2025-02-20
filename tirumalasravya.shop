@@ -4,7 +4,7 @@
     <meta charset="UTF-8">
     <meta name="viewport" content="width=device-width, initial-scale=1.0">
     <meta name="description" content="DevOps Engineer Profile">
-    <title>DevOps Engineer - [Your Name]</title>
+    <title>DevOps Engineer - sravya</title>
     <style>
         body {
             font-family: Arial, sans-serif;
@@ -61,7 +61,7 @@
 <body>
 
 <header>
-    <h1>DevOps Engineer - [Your Name]</h1>
+    <h1>DevOps Engineer - Sravya </h1>
     <p>Passionate about automation, infrastructure, and continuous integration</p>
 </header>
 
@@ -69,13 +69,13 @@
     <div class="profile-info">
         <div>
             <h2>About Me</h2>
-            <p>Hello! I'm [Your Name], a DevOps Engineer with experience in automating and optimizing infrastructure and deployment pipelines. I am skilled in a variety of DevOps tools and practices that improve collaboration, speed, and scalability of software delivery.</p>
+            <p>Hello! I'm Sravya,a DevOps Engineer with experience in automating and optimizing infrastructure and deployment pipelines. I am skilled in a variety of DevOps tools and practices that improve collaboration, speed, and scalability of software delivery.</p>
         </div>
         <div>
             <h2>Contact</h2>
-            <p>Email: [your.email@example.com]</p>
+            <p>Email: sravyatirumala@gmail.com</p>
             <p>LinkedIn: <a href="https://www.linkedin.com/in/yourprofile" target="_blank">linkedin.com/in/yourprofile</a></p>
-            <p>GitHub: <a href="https://github.com/yourprofile" target="_blank">github.com/yourprofile</a></p>
+            <p>GitHub: <a href="https://github.com/SravyaTirumala" target="_blank">github.com/yourprofile</a></p>
         </div>
     </div>
 
